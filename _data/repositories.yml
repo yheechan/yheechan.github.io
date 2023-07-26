@@ -1,10 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - yheechan
 
 github_repos:
   - alshedivat/al-folio
-  - twbs/bootstrap
+  - yheechan/Network-Based-Multiplayer-PingPong-Game
   - jekyll/jekyll
   - jquery/jquery
   - FortAwesome/Font-Awesome
