@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Heechan Yang",
-    "label": "M.S student at School of Computing, KAIST",
+    "label": "M.S Student at School of Computing, KAIST",
     "image": "",
     "email": "yangheechan@kaist.ac.kr",
     "phone": "",
@@ -30,9 +30,7 @@
     {
       "name": "Research Area",
       "keywords": [
-        "Automated Software Testing",
-        "AI-Based Software Testing",
-        "Automated Code Repair"
+        "Automated Software Testing"
       ]
     }
   ],
@@ -64,7 +62,7 @@
       "name": "Advancing Reliability, Safety & Security in Software Engineering (ARISE Lab)",
       "url": "https://arise.handong.edu/",
       "startDate": "Dec 2022",
-      "endDate": "Present",
+      "endDate": "Aug 2023",
       "summary": "",
       "highlights": [
         "Source Code Embedding",

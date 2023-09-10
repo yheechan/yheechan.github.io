@@ -19,12 +19,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Heechan Yang is a current M.S. candidate at the <a href="https://cs.kaist.ac.kr/">School of Computing</a>, <a href="https://kaist.ac.kr/kr/">Korea Advanced Institute of Science and Technology (KAIST)</a>. He currently performs research at <a href="https://swtv.kaist.ac.kr/">Software Testing & Verification Group (SWTV Lab)</a>, where his main interests are:
-* Automated Test Generation
-* AI-Based Software Testing
-* Automated Code Repair
+Heechan Yang is a M.S Student at the <a href="https://cs.kaist.ac.kr/">School of Computing</a>, <a href="https://kaist.ac.kr/kr/">Korea Advanced Institute of Science and Technology (KAIST)</a>. He currently performs research at <a href="https://swtv.kaist.ac.kr/">Software Testing & Verification Group (SWTV Lab)</a>, where his main interests are:
+* Automated Software Testing
 
-Heechan completed his B.S. degree in Artificial Intelligence, Computer Science and Engineering at <a href="https://csee.handong.edu/">School of Computer Science and Electrical Engineering</a>, <a href="https://www.handong.edu/kor/">Handong Global University (HGU)</a>.
+Heechan completed his B.S degree in Artificial Intelligence, Computer Science and Engineering at <a href="https://csee.handong.edu/">School of Computer Science and Electrical Engineering</a>, <a href="https://www.handong.edu/kor/">Handong Global University (HGU)</a>.
 
 Further details:
 * 🔗: <a href="https://yheechan.github.io/cv/">CV</a>
