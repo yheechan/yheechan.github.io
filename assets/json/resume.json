@@ -97,7 +97,15 @@
   "references": [],
   "volunteer": [
     {
-      "position": "President of CSEE (Student Coucil)",
+      "position": "Vice-President of School of Computing (Graduate Students)",
+      "organization": "School of Computing at KAIST",
+      "url": "https://cs.kaist.ac.kr/",
+      "startDate": "Present",
+      "endDate": "Aug 2023",
+      "highlights": []
+    },
+    {
+      "position": "President of CSEE (Undergraduate Students)",
       "organization": "School of Computer Science and Electrical Engineering at HGU",
       "url": "https://csee.handong.edu/",
       "startDate": "Jan 2022",
@@ -105,7 +113,7 @@
       "highlights": []
     },
     {
-      "position": "Vice-President of CSEE (Student Coucil)",
+      "position": "Vice-President of CSEE (Undergraduate Students)",
       "organization": "School of Computer Science and Electrical Engineering at HGU",
       "url": "https://csee.handong.edu/",
       "startDate": "July 2021",
