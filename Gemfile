@@ -17,7 +17,8 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer'
+    # gem 'mini_racer'
+        # gem 'mini_racer' # Disabled due to build errors; Node.js will be used by ExecJS
     gem 'unicode_utils'
     gem 'webrick'
 end
