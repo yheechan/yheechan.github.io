@@ -29,10 +29,7 @@
   "interests": [
     {
       "name": "Research Area",
-      "keywords": [
-        "Automated Software Testing",
-        "Fault Localization"
-      ]
+      "keywords": ["Automated Software Testing", "Fault Localization"]
     }
   ],
   "education": [
@@ -65,10 +62,7 @@
       "startDate": "Dec 2022",
       "endDate": "Aug 2023",
       "summary": "",
-      "highlights": [
-        "Source Code Embedding",
-        "Code Mutation Generation using Neural Language Model"
-      ]
+      "highlights": ["Source Code Embedding", "Code Mutation Generation using Neural Language Model"]
     },
     {
       "position": "Internship: Program Support and Management Services as Software Developer",

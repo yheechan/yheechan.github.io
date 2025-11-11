@@ -13,9 +13,9 @@ profile:
   #   <p>Daejeon, 34141</p>
   #   <p>Republic of Korea</p>
 
-news: false  # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
@@ -27,11 +27,13 @@ announcements:
 ---
 
 Heechan Yang is a M.S. Student at the <a href="https://cs.kaist.ac.kr/">School of Computing</a>, <a href="https://kaist.ac.kr/kr/">Korea Advanced Institute of Science and Technology (KAIST)</a>. He currently performs research at <a href="https://swtv.kaist.ac.kr/">Software Testing & Verification Group (SWTV Lab)</a>, where his main interests are:
-* Automated Software Testing
-* Fault Localization
+
+- Automated Software Testing
+- Fault Localization
 
 Heechan completed his B.S. degree in Artificial Intelligence, Computer Science and Engineering at <a href="https://csee.handong.edu/">School of Computer Science and Electrical Engineering</a>, <a href="https://www.handong.edu/kor/">Handong Global University (HGU)</a>.
 
 Further details:
-* 🔗: <a href="https://yheechan.github.io/cv/">CV</a>
-* ✉️: [heechan.yang96@gmail.com](mailto:heechan.yang96@gmail.com)
+
+- 🔗: <a href="https://yheechan.github.io/cv/">CV</a>
+- ✉️: [heechan.yang96@gmail.com](mailto:heechan.yang96@gmail.com)
