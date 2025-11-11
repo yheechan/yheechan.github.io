@@ -26,6 +26,6 @@ Domestic Conference Papers
 
 ---
 
-## 2023
+## 2022
 Domestic Conference Papers
 1. E. Ahn, **H. Yang**, E. Jee, S. Hong, A Neural Language Model-based Text Editing Tool for OCR Result of Unstructured Childhood Education Materials, Korean Software Congress (KSC) Dec 2022 **(Undergraduate student research competition award)** [<a href="/assets/publications/KSC22.pdf" target="_block">pdf</a>]
