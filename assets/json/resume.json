@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Heechan Yang",
-    "label": "M.S Student at School of Computing, KAIST",
+    "label": "M.S. Student at School of Computing, KAIST",
     "image": "",
-    "email": "yangheechan@kaist.ac.kr",
+    "email": "heechan.yang96@gmail.com",
     "phone": "",
     "lab": {
       "name": "Software Testing & Verification Group (SWTV Lab)",
@@ -30,13 +30,14 @@
     {
       "name": "Research Area",
       "keywords": [
-        "Automated Software Testing"
+        "Automated Software Testing",
+        "Fault Localization"
       ]
     }
   ],
   "education": [
     {
-      "studyType": "M.S in Computer Science",
+      "studyType": "M.S. in Computer Science",
       "institution": "Korea Advanced Institute of Science and Tecehnology (KAIST)",
       "url": "https://kaist.ac.kr/kr/",
       "area": "School of Computing",
@@ -46,7 +47,7 @@
       "courses": []
     },
     {
-      "studyType": "B.S in Artificial Intelligence, Computer Science and Engineering",
+      "studyType": "B.S. in Artificial Intelligence, Computer Science and Engineering",
       "institution": "Handong Global University (HGU)",
       "url": "https://www.handong.edu/kor/",
       "area": "School of Computer Science and Electrical Engineering (CSEE)",

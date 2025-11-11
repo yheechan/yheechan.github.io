@@ -1,11 +1,13 @@
-version: "3"
 # this file uses prebuilt image in dockerhub
 services:
   jekyll:
-    image: amirpourmand/al-folio
+    image: amirpourmand/al-folio:latest
+    build: .
+    command: bash -c "bundle install && bundle exec jekyll serve --host 0.0.0.0 --port 8080"
     ports:
       - 8080:8080
+      - 35729:35729
     volumes:
       - .:/srv/jekyll
-    working_dir: /srv/jekyll
-    command: bash -c "bundle install && bundle exec jekyll serve --host 0.0.0.0 --port 8080"
+    environment:
+      - JEKYLL_ENV=development
