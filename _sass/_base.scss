@@ -193,7 +193,11 @@ ul.task-list input[type="checkbox"] {
 // Profile
 
 .profile {
-  width: 100%;
+  /* Allow the profile box to shrink to fit its contents (so floats
+     keep the image on the side even on narrow screens). Previously
+     this was 100% which made the profile (and its img) span full
+     width on small viewports. */
+  width: auto;
 
   .more-info {
     margin-bottom: 5px;
