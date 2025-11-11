@@ -15,7 +15,7 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -26,4 +26,4 @@ Heechan completed his B.S degree in Artificial Intelligence, Computer Science an
 
 Further details:
 * 🔗: <a href="https://yheechan.github.io/cv/">CV</a>
-* ✉️: [yangheechan@kaist.ac.kr](mailto:yangheechan@kaist.ac.kr)
+* ✉️: [heechan.yang96@gmail.com](mailto:heechan.yang96@gmail.com)
