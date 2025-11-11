@@ -7,11 +7,25 @@ nav: true
 nav_order: 1
 ---
 
-Working on it...
-
 <!-- _pages/publications.md -->
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
+
+### 2025
+Domestic Conference Papers
+1.	**H. Yang**, A. Lee, K. Cho, M. Kim, Systematic Study of Mutation-Based Dataset Construction for Deep Learning-Based Fault Localization on Military Defense SW, Korean Software Congress (KSC), Dec 2025
+
+---
+
+## 2024
+Domestic Conference Papers
+1.	**H. Yang**, A. Lee, I. Lee, H. Nam, N. Jung, K. Cho, M. Kim, How to Create Dataset to Train a ML Model for Fault Localization: A Case Study on JsonCpp, Korean Computer Congress (KCC), June 2024 [<a href="/assets/publications/KCC24.pdf" target="_block">pdf</a>] 
+
+---
+
+## 2023
+Domestic Conference Papers
+1. E. Ahn, **H. Yang**, E. Jee, S. Hong, A Neural Language Model-based Text Editing Tool for OCR Result of Unstructured Childhood Education Materials, Korean Software Congress (KSC) Dec 2022 **(Undergraduate student research competition award)** [<a href="/assets/publications/KSC22.pdf" target="_block">pdf</a>]
