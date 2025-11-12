@@ -35,10 +35,10 @@
   "education": [
     {
       "studyType": "M.S. in Computer Science",
-      "institution": "Korea Advanced Institute of Science and Tecehnology (KAIST)",
+      "institution": "Korea Advanced Institute of Science and Technology (KAIST)",
       "url": "https://kaist.ac.kr/kr/",
-      "area": "School of Computing",
-      "startDate": "Aug 2023",
+      "area": "School of Computing (SoC)",
+      "startDate": "2023-08",
       "endDate": "Present",
       "score": "",
       "courses": []
@@ -48,8 +48,8 @@
       "institution": "Handong Global University (HGU)",
       "url": "https://www.handong.edu/kor/",
       "area": "School of Computer Science and Electrical Engineering (CSEE)",
-      "startDate": "Feb 2018",
-      "endDate": "Aug 2023",
+      "startDate": "2018-02",
+      "endDate": "2023-08",
       "score": "",
       "courses": []
     }
@@ -59,8 +59,8 @@
       "position": "Undergraduate Research Intern",
       "name": "Advancing Reliability, Safety & Security in Software Engineering (ARISE Lab)",
       "url": "https://arise.handong.edu/",
-      "startDate": "Dec 2022",
-      "endDate": "Aug 2023",
+      "startDate": "2022-12",
+      "endDate": "2023-08",
       "summary": "",
       "highlights": ["Source Code Embedding", "Code Mutation Generation using Neural Language Model"]
     },
@@ -68,8 +68,8 @@
       "position": "Internship: Program Support and Management Services as Software Developer",
       "name": "United Nations, Human Rights, Office of the High Commissioner",
       "url": "https://www.ohchr.org/en/ohchr_homepage",
-      "startDate": "Sep 2022",
-      "endDate": "Dec 2022",
+      "startDate": "2022-09",
+      "endDate": "2022-12",
       "summary": "",
       "highlights": []
     }
@@ -95,24 +95,24 @@
       "position": "Vice-President of School of Computing (Graduate Students)",
       "organization": "School of Computing at KAIST",
       "url": "https://cs.kaist.ac.kr/",
-      "startDate": "Aug 2023",
-      "endDate": "Dec 2023",
+      "startDate": "2023-08",
+      "endDate": "2023-12",
       "highlights": []
     },
     {
       "position": "President of CSEE (Undergraduate Students)",
       "organization": "School of Computer Science and Electrical Engineering at HGU",
       "url": "https://csee.handong.edu/",
-      "startDate": "Jan 2022",
-      "endDate": "June 2022",
+      "startDate": "2022-01",
+      "endDate": "2022-06",
       "highlights": []
     },
     {
       "position": "Vice-President of CSEE (Undergraduate Students)",
       "organization": "School of Computer Science and Electrical Engineering at HGU",
       "url": "https://csee.handong.edu/",
-      "startDate": "July 2021",
-      "endDate": "Dec 2022",
+      "startDate": "2021-07",
+      "endDate": "2022-12",
       "highlights": []
     }
   ]
