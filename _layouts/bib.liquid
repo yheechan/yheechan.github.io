@@ -178,12 +178,12 @@
     <div class="periodical">
       {{ periodical | strip }}
     </div>
-    <div class="periodical">
-      {{ entry.note | strip }}
-    </div>
 
     <!-- Links/Buttons -->
     <div class="links">
+      {% if entry.note %}
+        <a class="note btn btn-sm z-depth-0" role="button">Note</a>
+      {% endif %}
       {% if entry.award %}
         <a class="award btn btn-sm z-depth-0" role="button">
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
@@ -340,6 +340,13 @@
       <!-- Hidden Award block -->
       <div class="award hidden d-print-inline">
         <p>{{ entry.award | markdownify }}</p>
+      </div>
+    {% endif %}
+
+    {% if entry.note %}
+      <!-- Hidden note block -->
+      <div class="note hidden">
+        <p>{{ entry.note }}</p>
       </div>
     {% endif %}
 
